@@ -29,6 +29,7 @@ Output:
   <img width="599" alt="image" src="https://github.com/satyam19arya/Deploy_artifacts_on_tomcat_server_jenkins_cicd/assets/77580311/2f071e7f-0e43-4fa0-8a87-66779a79df8f">
   
 
-Architecture:
+## Architecture:
+<img width="565" alt="image" src="https://github.com/satyam19arya/Deploy_artifacts_on_tomcat_server_jenkins_cicd/assets/77580311/dc8c7d56-4b9d-40e8-a8be-ed84aa353c97">
 
 
