@@ -9,7 +9,11 @@ Steps to follow:
 - Now we Integrate Tomcat with Jenkins by installing Deploy to container plugin
 - Add credentials of Tomcat deployer username to Jenkins global credentials
 - Now create a new job to build code using maven and deploy artifacts to Tomcat server
+  
+   <img width="613" alt="image" src="https://github.com/satyam19arya/K8s_java_app_cicd/assets/77580311/9f4dde75-6531-42e1-8606-6a6663050dc0">
+
 - 
+
 
 
 
@@ -26,4 +30,3 @@ Steps to follow:
  <user username="deployer" password="deployer" roles="manager-script"/>
  <user username="tomcat" password="s3cret" roles="manager-gui"/>
 ```
-Restart serivce and login to tomcat application from the browser
