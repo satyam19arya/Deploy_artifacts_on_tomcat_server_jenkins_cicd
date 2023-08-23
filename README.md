@@ -6,4 +6,5 @@ Steps to follow:
 - Jenkins pull the code from Github and create build artifacts which we have to deploy on Tomcat server
 - Launch another EC2 instance with Ubuntu AMI (Tomcat server)
 - Install Tomcat on it (https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-10-on-ubuntu-20-04)
+- Now we Integrate Tomcat with Jenkins by installing Deploy to container plugin
 - 
