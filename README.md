@@ -12,13 +12,6 @@ Steps to follow:
   
    <img width="613" alt="image" src="https://github.com/satyam19arya/K8s_java_app_cicd/assets/77580311/9f4dde75-6531-42e1-8606-6a6663050dc0">
 
-- 
-
-
-
-
-
-
 
 
 ```
